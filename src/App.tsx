@@ -11,7 +11,7 @@ import './App.css'
 import RPC from './evm.ethers'
 
 const clientId =
-  'BBP_6GOu3EJGGws9yd8wY_xFT0jZIWmiLMpqrEMx36jlM61K9XRnNLnnvEtGpF-RhXJDGMJjL-I-wTi13RcBBOo' // get from https://dashboard.web3auth.io
+  'BPmb3M7SripmjPHU_sgLheAdpdh6sRUOUml487n-GejpqNyOHdREAMXZhu3GgQUWVl32O416LwPecBez7LffAfs' // get from https://dashboard.web3auth.io
 
 function App() {
   const [web3auth, setWeb3auth] = useState<Web3AuthCore | null>(null)
